@@ -73,12 +73,3 @@ python main.py
 ```
 # หรือหากต้องการใช้งานบน replit สามารถใช้งานได้ที่
 https://replit.com/@sakol289/likestorecybersafeconfigprice?v=1
-
-# หากมีปัญหาติดต่อช่องทางได้ตามนี้
-
-## FB : [cybersafe](https://fb.me/cybersafe01)
-
-## DISCORD : [cybersafe](https://cyber-safe.pro/discord)
-
-##  WEB : [cybersafe](https://cyber-safe.pro)
-
